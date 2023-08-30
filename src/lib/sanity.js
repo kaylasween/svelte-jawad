@@ -13,5 +13,5 @@ export async function getPosts() {
 }
 
 export async function getPost(slug) {
-  return await sanityClient.fetch(groq`*[_type == "post" && slug.current == "${slug}"][0]`)
+  return await sanityClient.fetch(groq`*[_type == "post" && slug.current == "${slug}"][0]{title, body, author->}`)
 }
