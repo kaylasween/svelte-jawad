@@ -17,6 +17,29 @@
 
 <style>
   h1 {
-    color: #ff3e00;
+    color: orange;
+  }
+
+  ul {
+    display: flex;
+    justify-content: space-around;
+    padding: 0;
+  }
+
+  li {
+    border: 1px solid black;
+    border-radius: 5px;
+    list-style: none;
+    padding: 0.5rem;
+  }
+
+  li:hover {
+    background-color: black;
+    color: white;
+  }
+
+  a {
+    color: inherit;
+    text-decoration: none;
   }
 </style>

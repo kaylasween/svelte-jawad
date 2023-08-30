@@ -1,7 +1,6 @@
 <script>
   /** @type {import ('./types').PageData} */
   export let data
-  console.log(data)
 </script>
 
 {#await data}
@@ -16,6 +15,6 @@
 
 <style>
   h1 {
-    color: #ff3e00;
+    color: orange;
   }
 </style>
