@@ -8,7 +8,7 @@
   <p>loading...</p>
 {:then data}
   <h1>{data.title}</h1>
-  <p />
+  <p>{data.author.name}</p>
   {#each data.body as block}
     <p>{block.children[0].text}</p>
   {/each}
