@@ -13,3 +13,4 @@
 - [MagnoliaJS Speakers](https://magnoliajs.boo/speakers)
 - [MagnoliaJS Tickets (with Discount Code jawad-10)](www.eventbrite.com/e/422921328077/?discount=jawad-10)
 - [Taylor Desseyn's Talk MagnoliaJS 2022](https://youtu.be/s258kUBpyTE?si=ZvxKs1eLeuTuLGtb)
+- [Kayla on Front End Happy Hour Podcast talking about conf organzing](https://www.frontendhappyhour.com/episodes/organizing-a-conference/)
